@@ -1,3 +1,4 @@
 # Ignore ipynb checkpoints
 
+Manifest.toml
 */.ipynb_checkpoints
