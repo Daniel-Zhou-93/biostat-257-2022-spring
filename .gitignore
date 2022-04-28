@@ -1,5 +1,5 @@
 # Ignore ipynb checkpoints
-
 Manifest.toml
 */.ipynb_checkpoints
 */hw0*.ipynb
+*/hw_files
