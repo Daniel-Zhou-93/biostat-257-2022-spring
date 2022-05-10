@@ -1,6 +1,9 @@
 # Ignore ipynb checkpoints
-
 Manifest.toml
 */.ipynb_checkpoints
 */hw0*.ipynb
+<<<<<<< HEAD
 .Rproj.user
+=======
+*/hw_files
+>>>>>>> master
