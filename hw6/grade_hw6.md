@@ -1,12 +1,12 @@
 *Daniel Zhou*
 
-### Overall Grade: 125/160
+### Overall Grade: 115/160
 
-### Quality of report: 0/10
+### Quality of report: -10/10
 
 -   Is the homework submitted (git tag time) before deadline? 
 
-    No, two days late. `-10`.
+    No, two days late. `-20`.
   
 -   Is the final report in a human readable format html? 
 
